@@ -5,7 +5,7 @@ My name is `Alejandro J. Zambrana`, I'm from Argentina.
 - 🔭 Currently working for [Puntoini Software](https://puntoinisoft.com/) as a full stack developer.
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-- 📫 You can shoot me an email at alejzambrana@gmail.com I'll try to respond as soon as I can.
+- 📫 You can shoot me an email at &#097;&#108;&#101;&#106;&#122;&#097;&#109;&#098;&#114;&#097;&#110;&#097;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109; I'll try to respond as soon as I can.
 - ⚡ Fun fact: My favorite movie is "Back to the future".
 
 
