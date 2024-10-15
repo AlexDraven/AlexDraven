@@ -12,7 +12,7 @@ My name is `Alejandro J. Zambrana`, I'm from Argentina.
 
 ## 🛠 &nbsp;Tech Stack
 
-
+![Golang](https://img.shields.io/badge/Go-05122A?logo=Go&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=for-the-badge&logo=NestJS&logoColor=E0234E)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=Angular&logoColor=DD0031)&nbsp;
